@@ -59,3 +59,7 @@ typings/
 
 # next.js build output
 .next
+.idea/
+node_modules/
+.client/idea/
+.client/node_modules/
